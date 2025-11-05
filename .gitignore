@@ -1,0 +1,60 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.so
+*.egg-info/
+*.log
+*.sqlite3
+
+# ---- Environment ----
+venv/
+.env/
+.env.bak
+.DS_Store
+.idea/
+.vscode/
+.ipynb_checkpoints/
+
+# ---- Build / Dist ----
+build/
+dist/
+*.egg/
+*.manifest
+*.spec
+
+# ---- Data & Results ----
+data/
+outputs/
+*.csv
+*.xlsx
+*.sav
+*.pkl
+*.h5
+
+# ---- OS Files ----
+Thumbs.db
+desktop.ini
+
+# ---- Plots / Temp Visualizations ----
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+
+# ---- Temporary / Cache ----
+.cache/
+tmp/
+logs/
+
+# ---- Exceptions (keep key outputs) ----
+!viz_correlation_heatmap.png
+!correlation_results.xlsx
+!viz_score_gap_boxplot.png
+!vviz_assignment_vs_test.png
+!README.md
+!main.py
+!src/
