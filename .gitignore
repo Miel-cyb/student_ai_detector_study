@@ -39,7 +39,6 @@ Thumbs.db
 desktop.ini
 
 # ---- Plots / Temp Visualizations ----
-*.png
 *.jpg
 *.jpeg
 *.svg
