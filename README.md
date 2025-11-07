@@ -1,6 +1,6 @@
 # AI Use and Academic Performance: Exploratory Analysis
 
-### 🧠 Project Overview
+###  Project Overview
 This project, examines how AI-assisted writing and detection scores relate to students’ actual academic performance. The goal is to understand whether students flagged with high AI involvement perform differently in non-AI-dependent assessments such as class tests.
 
 ---
@@ -11,7 +11,7 @@ This project, examines how AI-assisted writing and detection scores relate to st
 
 ---
 
-### 🧩 Objectives
+###  Objectives
 - Analyze correlations between **AI detection scores**, **assignment grades**, and **test results**.  
 - Identify whether students with higher AI detection underperform in traditional tests.  
 - Explore behavioral insights into **AI-assisted learning** and **performance consistency**.
